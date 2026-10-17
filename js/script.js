@@ -188,7 +188,7 @@ const projects = [
     {
         category: "websites",
         image: "images/project-personal-site.jpg",
-        link: "#",
+        link: "https://math-tutor-pro--powerdv9.replit.app/",
         title: { en: "Personal Website", ar: "موقع شخصي" },
         type: { en: "Personal Website", ar: "موقع شخصي" },
         technologies: "HTML • CSS • JavaScript",
