@@ -91,8 +91,8 @@ const translations = {
             navHeading: "Navigation",
             projectsHeading: "Projects",
             connectHeading: "Connect",
-            copyright: "© 2026 Reaven. All rights reserved.",
-            credit: "Designed & Developed by Reaven"
+            copyright: "© 2026 Eltehamy. All rights reserved.",
+            credit: "Designed & Developed by Eltehamy"
         }
     },
 
@@ -162,8 +162,8 @@ const translations = {
             navHeading: "التنقل",
             projectsHeading: "المشاريع",
             connectHeading: "تواصل",
-            copyright: "© 2026 Reaven. جميع الحقوق محفوظة.",
-            credit: "تصميم وتطوير Reaven"
+            copyright: "© 2026 Eltehamy. جميع الحقوق محفوظة.",
+            credit: "تصميم وتطوير Eltehamy"
         }
     }
 };
@@ -177,7 +177,7 @@ const translations = {
    no dashes). Example for Egypt: "201001234567"
    ========================================================= */
 
-const WHATSAPP_NUMBER = "201000000000"; // TODO: put your real number here
+const WHATSAPP_NUMBER = "201035326978"; // TODO: put your real number here
 
 
 /* =========================================================
@@ -213,12 +213,12 @@ const projects = [
         category: "websites",
         image: "images/project-coffee.jpg",
         link: "#",
-        title: { en: "Coffee Shop Website", ar: "موقع محل قهوة" },
+        title: { en: "Smile Dental Clinic", ar: "عيادة اسمايل" },
         type: { en: "Business Website", ar: "موقع تجاري" },
         technologies: "HTML • CSS • JavaScript",
         description: {
-            en: "A warm, welcoming website for a coffee shop, designed to showcase its menu and vibe.",
-            ar: "موقع دافئ ومريح لمحل قهوة، اتصمم عشان يعرض المنيو وجو المكان."
+            en: "A warm, welcoming website for a Dental Clinic, designed to showcase its menu and vibe.",
+            ar: "موقع مريح ومريح لعيادة اسنان ، اتصمم عشان يعرض يخل الحجز وجو المكان."
         }
     }
 ];
