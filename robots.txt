@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://eltehamy.vercel.app
+Sitemap: https://vercel.app
