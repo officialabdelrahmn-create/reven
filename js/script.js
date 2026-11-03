@@ -211,7 +211,7 @@ const projects = [
     },
     {
         category: "websites",
-        image: "images/Dental Clinic.jpg",
+        image: "images/dental-Clinic.jpg",
         link: "https://officialabdelrahmn-create.github.io/Smile/",
         title: { en: "Smile Dental Clinic", ar: "عيادة اسمايل" },
         type: { en: "Business Website", ar: "موقع تجاري" },
